@@ -179,8 +179,8 @@ days to this. One loader, one load, all the way through.
 
 ## Provenance of the code
 
-Extracted from the WilD3DGen 3D editing data engine, where this layer moved
-part-removal from 9/10 to 12/12 and part-addition from 6/10 to 11/12 on a
+Extracted from a production 3D-editing data engine, where adding this layer
+moved part-removal from 9/10 to 12/12 and part-addition from 6/10 to 11/12 on a
 12-task pilot. The failure it fixes is very concrete: *"move the head" used to
 leave the eyes behind.*
 
